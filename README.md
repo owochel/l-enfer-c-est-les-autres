@@ -8,3 +8,5 @@ By pressing those keys, player ball will be added with an according velocity.
 Press space will place the player back to the center.  Press r will restart the game.
 
 There may be no exit in this game.
+
+![alt text](https://user-images.githubusercontent.com/51350490/103382261-f716cc80-4ab3-11eb-9665-d03e432fc9a3.png)
