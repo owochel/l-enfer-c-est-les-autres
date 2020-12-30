@@ -67,7 +67,7 @@ void draw() {
   }
 
   if (state == 2) {
-    String s = "Catch all the red objects. Press r to begin. There may be no exit in this world.";
+    String s = "Press r to begin. There may be no exit in this world.";
     text(s, -115, -80, 200, 50);
     text("Control:", -115, -10);
     text("w↑ a← s↓ d→", -115, 10);
